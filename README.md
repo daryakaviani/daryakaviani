@@ -7,6 +7,6 @@
 
 🔭 I'm an R&D Engineer at [UC Berkeley Sky Lab](https://sky.cs.berkeley.edu/) working on building & deploying secure distributed trust systems through applied cryptography.
 
-🌱 I’m currently learning more about theoretical cryptography (zero-knowledge proofs & multi-party computation).
+🌱 I’m currently learning more about cryptography (particularly zero-knowledge proofs & multi-party computation).
 
 <img src="https://github-readme-stats.vercel.app/api?username=daryakaviani&show_icons=true&theme=dark" alt="daryakaviani" />
