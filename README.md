@@ -5,6 +5,4 @@
 <a href="mailto:daryakaviani@berkeley.edu"><img src="https://img.shields.io/badge/Email-darya%40berkeley.edu-green"></a>
 <a href="https://daryakaviani.com" target="_blank"><img src="https://img.shields.io/badge/Personal%20Site-daryakaviani.com-yellow"></a>
 
-🔭 I'm an R&D Engineer at [UC Berkeley Sky Lab](https://sky.cs.berkeley.edu/) working on building & deploying secure distributed trust systems through applied cryptography.
-
-🌱 I’m currently learning more about cryptography (particularly zero-knowledge proofs & multi-party computation).
+I'm a PhD student at [UC Berkeley Sky Lab](https://sky.cs.berkeley.edu/) working on systems security and applied cryptography.
