@@ -5,4 +5,4 @@
 <a href="mailto:daryakaviani@berkeley.edu"><img src="https://img.shields.io/badge/Email-darya%40berkeley.edu-green"></a>
 <a href="https://daryakaviani.com" target="_blank"><img src="https://img.shields.io/badge/Personal%20Site-daryakaviani.com-yellow"></a>
 
-I'm a PhD student at [UC Berkeley Sky Lab](https://sky.cs.berkeley.edu/) working on systems security and applied cryptography.
+I'm a PhD student at [UC Berkeley Sky Lab](https://sky.cs.berkeley.edu/) working on AI security and cryptographic systems.
